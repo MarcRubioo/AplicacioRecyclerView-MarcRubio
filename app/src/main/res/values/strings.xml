@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AplicacioRecyclerView-MarcRubio</string>
+    <string name="edat">Edat</string>
+    <string name="nom">Nom</string>
+    <string name="seg_ent">Següent</string>
+    <string name="Bot_mas">+</string>
 </resources>
